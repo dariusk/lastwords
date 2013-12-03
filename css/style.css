@@ -18,5 +18,9 @@ a {
 #content {
   display: none;
   font-size: 3em;
-  min-height: 500px;
+}
+#foot {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
