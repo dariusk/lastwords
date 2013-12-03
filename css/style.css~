@@ -1,0 +1,22 @@
+body {
+  margin: 30px;
+  font-family: sans-serif;
+  background: black;
+  color: white;
+}
+h1 {
+  margin-bottom: -20px;
+}
+h2 {
+}
+h3 {
+  margin-top: -20px;
+}
+a {
+  color: white;
+}
+#content {
+  display: none;
+  font-size: 3em;
+  height: 300px;
+}

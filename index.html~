@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Last Words</title>
+<link rel='stylesheet' href='css/style.css' type='text/css' media='all' />
+<script src="love.js"></script>
+</head>
+<body>
+    <div id="content">
+      loading...
+    </div>
+    <h2>Last Words</h2>
+    <p>Occurrences of 'Love' in Last Words of <a href="http://www.tdcj.state.tx.us/stat/dr_executed_offenders.html">Executed Texas Death Row Inmates</a></p>
+    <p>For <a href="https://twitter.com/TweeterRater">Tweeter Rater</a>, by <a href="http://twitter.com/tinysubverisons">Darius Kazemi</a>.</p>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="js/app.js"></script>
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+      var pageTracker = _gat._getTracker("UA-339043-1");
+      pageTracker._trackPageview();
+    } catch(err) {}
+    </script>
+ </body>
+</html>
